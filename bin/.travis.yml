@@ -11,5 +11,5 @@ script:
 
 deploy:
   skip_cleanup: true
-  file: "discovery_server.jar"
-  on: Discovery-Microservices-Server
+  file: "bot_produktif.jar"
+  on: branch_bot_eki
